@@ -20,7 +20,7 @@ module.exports = {
       verbose: true
     }),
     new HtmlWebpackPlugin({
-      title: 'Project Template', // Add project name here.
+      title: 'Power Plant', // Add project name here.
       template: './src/index.html',
       inject: 'body'
     }),
