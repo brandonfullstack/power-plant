@@ -3,7 +3,7 @@
 import './css/styles.css';
 
 window.addEventListener("load", function () {
-  console.log("project Template");
+  console.log("Power Plant");
 });
 
 // This function stores our state.
